@@ -33,4 +33,4 @@ Your documents never leave your PC; the only network call is licence activation.
 
 ## Support
 
-aayush.c2684@gmail.com
+office-link-migrator@proton.me

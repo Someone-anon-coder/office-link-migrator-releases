@@ -1,10 +1,10 @@
-# Office Link Migrator: downloads
+# Link Migrator for Excel, Word and PowerPoint: downloads
 
-Installers for **Office Link Migrator**, a Windows app that finds every link inside folders of
+Installers for **Link Migrator for Excel, Word and PowerPoint** (earlier name: Office Link Migrator), a Windows app that finds every link inside folders of
 Excel, Word and PowerPoint files, flags the broken ones, and rewrites old file-server paths to
 new ones in safe copies.
 
-**Download:** [latest release](https://github.com/Someone-anon-coder/office-link-migrator-releases/releases/latest)
+**Download:** [Microsoft Store](https://apps.microsoft.com/detail/9NS6HLT4ZPGS) (signed, recommended) · [latest installer](https://github.com/office-link-migrator/office-link-migrator-releases/releases/latest)
 · **Website and help:** <https://office-link-migrator.aayush-c2684.workers.dev>
 
 This repository holds release files only; it contains no source code.
